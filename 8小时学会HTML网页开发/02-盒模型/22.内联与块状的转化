@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+  	div{
+		width:200px;
+		height:200px;
+		background:blue;
+		display:none;
+		//display:inline;
+
+
+	}
+  	span{
+		width:200px;
+		height:200px;
+		background:blue;
+		display:block;
+	}
+  </style>
+ </head>
+ <body>
+ 	<div>块状</div>
+	<span>内联</span>
+ </body>
+</html>
+
+//什么时候把内联转块状？
+//display:block, inline, none还有哪些？

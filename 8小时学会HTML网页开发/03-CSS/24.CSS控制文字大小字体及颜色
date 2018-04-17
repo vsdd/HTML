@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+  	#test1{
+		color:blue;
+		font-style:italic;
+		font-weight:bold;
+		font-size:23px;
+		line-height:46px;
+		font-family:"SimHei";
+	}
+	#test2{
+		font:italic bold 23px/46px "SimHei";
+	}
+  </style>
+ </head>
+ <body>
+	<div id="test1">侠客行</div>
+	<div id="test2">赵客缦胡缨，吴钩霜雪明。银鞍照白马，飒沓如流星。十步杀一人，千里不留行。</div>
+ </body>
+</html>
+
+//对于文字的控制 有没有其他属性 查手册研究用法

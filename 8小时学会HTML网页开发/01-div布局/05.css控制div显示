@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+  	div{
+		height:200px;
+		background:blue;
+	}
+	#main{
+		background:green;
+	}
+	#footer{
+		background:gray;
+	}
+  </style>
+ </head>
+ <body>
+	<div id="header"></div>
+	<div id="main"></div>
+	<div id="footer"></div>
+ </body>
+</html>
+
+//css有几种引入方式
+//div除了可以声明id来控制，还可以声明什么控制
+//如何让2个div并排显示

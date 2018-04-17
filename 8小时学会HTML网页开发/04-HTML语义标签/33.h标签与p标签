@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+	<h1> 朵 </h1>
+	<h2> 朵 </h2>
+	<h3> 朵 </h3>
+	<h4> 朵 </h4>
+	<h5> 朵 </h5>
+	<h6> 朵 </h6>
+	<div> h1~h6 </div>
+	<p> p表示段落 在新闻网站中 h与p经常一起出现 </p>
+ </body>
+</html>

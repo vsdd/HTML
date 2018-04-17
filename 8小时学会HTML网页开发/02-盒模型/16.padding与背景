@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <style>
+ 	div{
+		width:200px;
+		height:200px;
+		background:pink;
+		border:10px solid blue;
+		padding:20px;
+	}
+ </style>
+ <body>
+	<div>HTML</div>
+ </body>
+</html>

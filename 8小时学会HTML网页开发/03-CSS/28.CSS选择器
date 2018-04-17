@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+  	#test1{
+		width:200px;
+		height:200px;
+		border:1px solid blue;
+	}
+	.test2{
+		width:200px;
+		height:200px;
+		border:1px solid red;
+	}
+	div{
+		width:100px;
+		height:500px;
+		background:orange;
+		margin:10px;
+	}
+    div p{
+		color:red;
+	}
+  </style>
+ </head>
+ <body>
+	<div id="test1"></div>
+	<div class="test2"></div>
+	<div>普通div
+		<p id="test4">我是div中的p标签<p>
+	</div>
+	<p>我是独立p标签</p>
+ </body>
+</html>
+
+//id选择器
+//class选择器
+//标签选择器
+//派生选择器

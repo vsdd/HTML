@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+	#test1{
+		font-family:'微软雅不黑', '微软雅黑', '黑体', sans-serif; 
+	}
+    #test1{
+		font-family:'New Times', '微软雅黑', '黑体', serif; 
+	}
+  </style>
+ </head>
+ <body>
+	<div id="test1">侠客行</div>
+	<div id="test2">赵客缦胡缨，吴钩霜雪明。银鞍照白马，飒沓如流星。十步杀一人，千里不留行。</div>
+
+ </body>
+</html>

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+  	#p1{
+		background:green;
+		text-align:center;
+	}
+	#p2{
+		background:orange;
+		text-indent:20px; /*缩进*/
+		text-decoration:underline;
+		letter-spacing:20px;
+	}
+  </style>
+ </head>
+ <body>
+	<p id="p1">侠客行</p>
+	<p id="p2">赵客缦胡缨，吴钩霜雪明。银鞍照白马，飒沓如流星。十步杀一人，千里不留行。 </p>
+ </body>
+</html>
+
+//自行搜索 段落控制的其他CSS属性 并总结功能

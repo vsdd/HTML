@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+    div{
+		background:gray;
+		height:200px;
+	}
+  	#strip{
+		width:0px;
+		height:0px;
+		border-top:50px solid white;
+		border-right:50px solid white;
+		border-bottom:50px solid green;
+		border-left:50px solid white;
+	}
+  </style>
+ </head>
+ <body>
+    <div>
+		<div id="strip"> </div>
+	</div>
+ </body>
+</html>
+
+//1.能否让边框透明
+//2.用CSS画一棵圣诞树

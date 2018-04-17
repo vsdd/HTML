@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>第8课，实战首页布局</title>
+  <style>
+  	#container{
+		width:1002px;
+		background:gray;
+	}
+	#header{
+		height:200px;
+		background:orange;
+	}
+        #main{
+		height:500px;
+		background:green;
+	}
+	#lside{
+		float:left;
+		width:700px;
+		height:600px;
+		background:pink;
+	}
+	#rside{
+		float:right;
+		width:302px;
+		height:600px;
+		background:purple;
+	}
+	#footer{
+		height:200px;
+		background:blue;
+	}
+  </style>
+ </head>
+ <body>
+	<div id="container">
+		<div id="header"></div>
+		<div id="main">
+			<div id="lside"></div>
+			<div id="rside"></div>
+        </div>
+		<div id="footer"></div>
+	</div>
+ </body>
+</html>

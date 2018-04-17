@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+	<img src="怪盗圣少女.jpg" alt="怪盗圣少女" title="怪盗圣少女"/>
+ </body>
+</html>
+
+//1.搜索解决那些是单闭合标签 那些是双闭合
+//2.分别用img引用站内 远程图片

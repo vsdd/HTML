@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+	<div>
+		1.不加doctype,导致低版本IE，解析效果不一样<br/>
+		2.id为数字<br/>
+		3.文件编码与charset编码不一致
+	</div>
+ </body>
+</html>

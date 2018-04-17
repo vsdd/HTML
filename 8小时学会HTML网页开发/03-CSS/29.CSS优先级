@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+  	p{
+		color:red;
+	}
+	.test2{
+		color:green;
+	}
+	#test1{
+		color:blue;
+	}
+	div #test1{
+		color:pink;
+	}
+  </style>
+ </head>
+ <body>
+	<div>
+		<p id="test1" class="test2">侠客行</p>
+	</div>
+ </body>
+</html>
+

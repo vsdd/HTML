@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>用div来占块、布局</title>
+ </head>
+ <body>
+	<div></div>
+	<div></div>
+	<div></div>
+ </body>
+</html>
