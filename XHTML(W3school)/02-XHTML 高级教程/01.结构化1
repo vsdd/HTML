@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <h3>XHTML规则概要</h3>
+  <h3>Unicode和其他字符集</h3>
+  <h3>为表达语义而标记文档，而不是为了样式</h3>
+  <h3>提纲内的色彩</h3>
+  <h3>根据它们的意义使用元素，而不是根据它们的外观</h3>
+  <h3>使用结构化元素，而不是无意义的垃圾</h3>
+  <h3>视觉元素和结构</h3>
+ </body>
+</html>
