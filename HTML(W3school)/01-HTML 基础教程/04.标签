@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+ 	<h1>This is a heading</h1>
+	<h2>This is a heading</h2>
+	<h3>This is a heading</h3>
+	<p>This is a paragraph</p>
+	<p>This is another prargraph</p>
+	<a href="http://wwww.w3school.com.cn">This is a link</a>
+	<img src="怪盗圣少女.jpg" width="100" height="100" />
+
+ </body>
+</html>
