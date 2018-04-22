@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <h1>This is heading</h1>
+  <h2>This is heading</h2>
+  <h3>This is heading</h3>
+  <h4>This is heading</h4>
+  <h5>This is heading</h5>
+  <h6>This is heading</h6>
+
+  <p>This is a paragraph</p>
+  <hr/>
+  <p>This is a paragraph</p>
+  <hr/>
+  <p>This is a paragraph</p>
+
+  <!--This is a comment-->
+ </body>
+</html>

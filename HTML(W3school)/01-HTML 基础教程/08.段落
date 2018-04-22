@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <p>This is a <br/>paragraph</p>
+  <p>This is <br/>another paragraph</p>
+
+  <p>春眠不觉晓
+		处处闻啼鸟
+  </p>
+  <p>注：浏览器忽略了源代码中的排版</p>
+ </body>
+</html>

@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <h1>HTML&#60q>用于短的引用</h1>
+  <p>浏览器通常会在q元素周围包围引号</p>
+  <p>WWF的目的是<q>构建人与自然和谐相处的世界</q></p>
+
+  <h1>用于长引用的HTML&#60blockquote></h1>
+  <p>浏览器通常对blockquote元素进行缩进处理</p>
+  <blockquote cite="http://www.worldwildlife.org/who/index.html">五十年来，WWF一直致力于保护自然界的未来
+  WWF工作于100个国家，并得到美国一百二十万会员及全球近五百万会员的指出</blockquote>
+
+  <h1>用于缩略词的HTML&#60abbr></h1>
+  <p><abbr title="World Health Organization">WHO</abbr>成立于1948年</p>
+  <p>对缩进进行标记能够为浏览器 翻译系统以及搜索引擎提供有用的信息</p>
+  
+  <h1>用于定义的HTML&#60dfn></h1>
+  <p>The <dfn title="World Health Organization">WHO</dfn> was founded in 1948</p>
+  <p>对缩写进行标记能够为浏览器、翻译系统以及搜索引擎提供有用的信息</p>
+  <p><dfn><abbr title="World Health Organization">WHO</abbr></dfn>成立于1948年</p>
+  <p><dfn>WHO</dfn> World Health Organization成立于1948</p>
+
+  <h1>用于联系信息的HTML&#60address></h1>
+  <address>
+	Written by Jon Doe<br> 
+	Visit us at:<br>
+	Example.com<br>
+	Box 564, Disneyland<br>
+	USA
+  </address>
+
+  <h1>用于著作标题的HTML<cite>
+  <img src="怪盗圣少女.jpg" width="50" height="50" > 
+  <p><cite>The Scream</cite> by Edward Munch in 1983</p>
+
+  <h1>用于双向重写的HTML<bdo>
+  <p>文本从右向左书写</q>
+  <bdo dir="rtl">This ext will be written from right to left</bdo>
+ </body>
+</html>

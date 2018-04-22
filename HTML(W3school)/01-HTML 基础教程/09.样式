@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body style="background-color:PowderBlue;">
+	<h1 style="text-align:center">Look! Styles and colors</h1>
+	<p style="font-family:verdana;color:red">This text is in Verdana and red</p>
+	<p style="font-familu:times;color:green">This text is in Timese and green</p>
+
+	<h2 style="background-color:red">This is a heading</h2>
+	<p style="background-color:green">This is a paragraph</p>
+	<p style="font-family:arial; color:red; font-size:20px;">This is a paragraph</p>
+ </body>
+</html>
