@@ -1,0 +1,4 @@
+﻿13.HTML URL编码
+14.HTTP 语言代码
+15.HTTP 消息
+16.HTTP 方法
